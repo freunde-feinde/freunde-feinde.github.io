@@ -52,11 +52,12 @@ nav ul {
 }
 main {
 	float: left;
-	width: 60%;
+	width: 100%;
 }
-aside {
+<!-- aside {
 	float: right;
 	width: 30%;
+	-->
 }
 article {
     border-bottom: 2px dotted #999;
@@ -86,10 +87,11 @@ footer p {
 address {
     padding: 10px 20px 30px 10px;
 }
-aside > div {
+<!-- aside > div {
 	margin: 10px auto;
 	background: #AEC6CF;
 	min-height: 100px;
+	-->
 }
 #logo {
     display: inline-block;
